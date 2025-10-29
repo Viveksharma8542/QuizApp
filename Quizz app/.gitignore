@@ -1,0 +1,10 @@
+# Node modules (never commit this)
+node_modules/
+
+# Environment variables
+.env
+
+# Build and cache files
+dist/
+build/
+*.log
